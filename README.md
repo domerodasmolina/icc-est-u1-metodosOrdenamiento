@@ -1,18 +1,19 @@
-## Getting Started
+## Universidad Politecnica Salesian
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Proyecto: Metodos Ordenamiento
+## Estudiante: Domenica Rodas
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Practica 1.1: Metodo Burbuja
+## Fecha: 2026-04-20
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Descripcion: 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Cree la clase "Bubble Sort" que implemente el metodo de ordenamiento burbuja, tres metodos ascendente, descendente y un mixto por parametro.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Practica 1.2: Metodo Burbuja Avanzado
+## Fecha: 2026-04-22
 
-## Dependency Management
+## Descripcion:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Cree la clase "Bubble Sort Avz" en la cual imprmemnte el metodo de ordemaniento burbuja avanzado, usando arreglos, ademas de metodos, y distintos parametros para un ordenamiento mas practico.
